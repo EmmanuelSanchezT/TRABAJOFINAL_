@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rihanna model
+* source:	https://sketchfab.com/3d-models/rihanna-model-305c7cc430f044189674b18baae763dd
+* author:	Hora Timer (https://sketchfab.com/horatimer)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rihanna model" (https://sketchfab.com/3d-models/rihanna-model-305c7cc430f044189674b18baae763dd) by Hora Timer (https://sketchfab.com/horatimer) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
